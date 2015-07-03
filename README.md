@@ -1,0 +1,2 @@
+# wordpress
+scripts de wordpress
